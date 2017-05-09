@@ -11,3 +11,7 @@ var g_venus = 8.87; // gravedad de Venus
 var g_saturno = 10.44; // gravedad de Saturno
 var g_urano = 8.69; // gravedad de Urano
 var g_neptuno = 11.15; // gravedad de Neptuno
+
+// Peso Final
+var planetss = document.getElementById("selects").value;
+
